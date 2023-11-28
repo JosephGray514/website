@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+
+.contImg{
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+}
